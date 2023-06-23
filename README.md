@@ -16,6 +16,7 @@
 
 📫 Contact: Bogdan.Istrate.me@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-istrate-70b086246/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-istrate-70b086246/)
+
 
 
