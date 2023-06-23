@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Bogdan016/Bogdan016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Istrate Bogdan
 
-Here are some ideas to get you started:
+🌍 Romania
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Studying Computer Science
+
+🌱 Areas of Interest: Web Development, Algorithms
+
+📫 Contact: Bogdan.Istrate.me@gmail.com
+
+💻 Skills: C, HTML/CSS, JavaScript
+
+🌐 Portfolio: 
+
+📚 Favorite Books: "Atomic Habits" by James Clear, "Cracking the Coding Interview" by Gayle Laakmann McDowell
+
+📌 Fun Fact: I enjoy playing the guitar in my free time. I also love playing football and many other sports.
