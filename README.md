@@ -12,8 +12,9 @@
 
 💻 Skills: C, HTML/CSS, JavaScript
 
-🌐 Portfolio: 
+🌐 Portfolio: Coming soon!
 
 📚 Favorite Books: "Atomic Habits" by James Clear, "Cracking the Coding Interview" by Gayle Laakmann McDowell
 
-📌 Fun Fact: I enjoy playing the guitar in my free time. I also love playing football and many other sports.
+![Linkedin](https://www.linkedin.com/in/bogdan-istrate-70b086246)]
+
