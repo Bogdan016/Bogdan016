@@ -6,7 +6,7 @@
 
 🎓 Studying Computer Science & Engineering
 
-🌱 Areas of Interest: Web Development, Algorithms
+🌱 Areas of Interest: Programming, Web Development, Algorithms
 
 💻 Skills: C, HTML/CSS, JavaScript
 
