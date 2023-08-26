@@ -8,11 +8,9 @@
 
 🌱 Areas of Interest: Programming, Web Development, Algorithms
 
-💻 Skills: C/C++, HTML/CSS, JavaScript
+💻 Skills: C/C++, HTML/CSS
 
 🌐 Portfolio: Coming soon!
-
-📚 Favorite Books: "Atomic Habits" by James Clear, "Cracking the Coding Interview" by Gayle Laakmann McDowell
 
 📫 Contact: istrate.bogdan.me@gmail.com
 
