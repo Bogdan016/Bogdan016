@@ -8,7 +8,7 @@
 
 🌱 Areas of Interest: Programming, Web Development, Algorithms
 
-💻 Skills: C/C++, HTML/CSS
+💻 Skills: C/C++, Java, HTML/CSS
 
 🌐 Portfolio: Coming soon!
 
