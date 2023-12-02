@@ -12,7 +12,7 @@
 
 🌐 Portfolio: Coming soon!
 
-📫 Contact: istrate.bogdan.me@gmail.com
+📫 Contact: bogdanistrate03@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-istrate-70b086246/)
 
