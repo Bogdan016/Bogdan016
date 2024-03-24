@@ -7,7 +7,7 @@ I am currently a Computer Science student at the Technical University of Cluj-Na
 * 🖥️  See my portfolio at [Bogdan Istrate | CS Student](http://bogdan016.github.io/Portofolio-Website/)
 * ✉️  You can contact me at [bogdanistrate03@gmail.com](mailto:bogdanistrate03@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdan016&label=Profile%20views&color=0e75b6&style=flat" alt="bogdan016" /> </p>
+[//]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdan016&label=Profile%20views&color=0e75b6&style=flat" alt="bogdan016" /> </p>)
 
 ### Skills
 
