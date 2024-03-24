@@ -35,4 +35,5 @@ I am currently a Computer Science student at the Technical University of Cluj-Na
 <a href="https://www.hackerrank.com/bogdanistrate03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bogdanistrate03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bogdan321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bogdan321" height="30" width="40" /></a>
 </p>
-<a href="https://app.daily.dev/bogdan91"><img src="https://api.daily.dev/devcards/v2/tgXShKKkn9tcibRncOa16.png?type=default&r=jhu" width="356" alt="Bogdan's Dev Card"/></a>
+
+[//]: <> (<a href="https://app.daily.dev/bogdan91"><img src="https://api.daily.dev/devcards/v2/tgXShKKkn9tcibRncOa16.png?type=default&r=jhu" width="356" alt="Bogdan's Dev Card"/></a>)
