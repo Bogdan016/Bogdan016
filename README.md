@@ -1,12 +1,10 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+i'm+Bogdan)](https://git.io/typing-svg)</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Bogdan)](https://git.io/typing-svg)</div>
 ==============================================================================================================================
 
 <p align="center">
-I'm a software developer who loves coding and solving problems. 
-
-  I'm mainly into backend development, but I've recently started learning about DevOps to get a better understanding of the whole process. 
+  I'm a software developer who loves coding and solving problems. 
 </p>
 
 <div align="center"> <h3>Contact</h3>  </div>
